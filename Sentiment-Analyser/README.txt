@@ -18,5 +18,5 @@ Public sentiment can be sourced from interviews, opinion polls, and surveys. How
 
 # Output
 The app provides sentiment analysis output, classifying the text's sentiment polarity and offering insights into public opinion.
-Here's the image depicting the project 
-![Sentiment-Analyser](./img.jpg)
+I have uploaded (img.jpg) as an image depciting the whole project.
+
