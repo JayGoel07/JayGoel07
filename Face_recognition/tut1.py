@@ -2,7 +2,7 @@
 import cv2   
 import random
  
-img = cv2.imread('assets/DIL_SE.png', 1)  # -1 : Colorful image, 0 : black and white, 1 : original
+img = cv2.imread('DIL_SE.png', 1)  # -1 : Colorful image, 0 : black and white, 1 : original
 print(type(img))                          # <class 'numpy.ndarray'>  , its a numpy array of RGB values
 print(img.shape)                          # (312,315,3) ~ (no of rows[height], no of columns[width], no of channels[B-G-R in open-cv ]), 0 is black
 
